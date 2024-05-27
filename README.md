@@ -1,5 +1,5 @@
 - Currently a Computer Science major at Iowa State.
-- This is just for silly little personal projects to learn new things.
+- This is just for silly little personal projects to learn new things for the time being.
 
 <!---
 Worm-Warrior/Worm-Warrior is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
